@@ -1,0 +1,1 @@
+### Git hook Stamp ID
